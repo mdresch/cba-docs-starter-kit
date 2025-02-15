@@ -13,5 +13,5 @@ export const Navigations = [
 ]
 
 export const GitHubLink = {
-  href: "https://github.com/mdresch/cba=docs-starter-kit",
+  href: "https://github.com/mdresch/cba-docs-starter-kit",
 }
